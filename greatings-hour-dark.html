@@ -1,0 +1,57 @@
+<html> 
+<head>
+    <title>Mensagem de Saudação</title> 
+    <style>
+#lbl {
+    font-family: monospace;
+    font-size: xx-large;
+    color: white;
+    padding: 5px;
+    border: 1px solid #ececec;
+    text-align: center;
+    line-height: 1.5;
+    height:85%
+
+
+}
+#date{
+    font-size:large;
+}
+body{
+    background-color: #2a2a2a;
+}
+    </style>
+</head>
+<body>
+    <div id="lbl"></div>
+</body>
+
+<script>
+    var weekday = new Array(7);
+    weekday[0] = "Doming";
+    weekday[1] = "Segunda";
+    weekday[2] = "Terça";
+    weekday[3] = "Quarta";
+    weekday[4] = "Quinta";
+    weekday[5] = "Sexta";
+    weekday[6] = "Sábado";
+
+    
+    var today = new Date();
+    var hrs = today.getHours();
+    var dayOfWeek = weekday[today.getDay()];
+    var date = dayOfWeek+" " + today.getDate() + "/" +(today.getMonth()+1) +'/'+today.getFullYear()  ;
+
+    var greet;
+
+    if (hrs < 12)
+        greet = 'Bom Dia  ';
+    else if (hrs >= 12 && hrs <= 18)
+        greet = 'Boa Tarde ';
+    else if (hrs >= 18 && hrs <= 24)
+        greet = 'Boa Noite  ';
+
+    document.getElementById('lbl').innerHTML =
+        greet+="Antônio " +`<div id="date"> Hoje é ${date}</div>`;
+</script> 
+</html>

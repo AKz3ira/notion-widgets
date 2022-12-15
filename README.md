@@ -1,7 +1,10 @@
 # notion-widgets
----
 
-Olá pessoal!
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+**Olá pessoal!**
 
 Esse projeto é um teste para usar widgets _self-hosted_ no Notion.
 Tenho o intuito de adicionar cada vez mais widgets por aqui então não é um projeto que ficará parado.
@@ -140,7 +143,7 @@ E está pronto para ser adicionado em seu notion!
 
 Gostaria de sugerir algum Widget novo, encontrou algum BUG ou tem alguma sugestão de alteração? Entre em contato comigo.
 
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/af_designer1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:afdesigner1@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/afdesigner1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

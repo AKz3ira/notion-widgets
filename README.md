@@ -22,6 +22,8 @@ e adicione o nome do arquivo do widget que deseja no final dele.
 
 E cole esse link no Notion utilizando o `/Embed` ou cole diretamente como texto e selecione a opção `Create Embed`.
 
+---
+
 ## Gostaria de Personalizar o Meu Widget
 
 ### Passo 1
@@ -111,4 +113,38 @@ Copie o código acima e cole no seu arquivo. A partir daqui, você poderá perso
 
 Chegou a hora de publicar o seu widget para poder utilizar!
 
-Antes de tudo, precisará habilitar o _Github Pages_. Para isso
+Antes de tudo, precisará habilitar o _Github Pages_. Para isso vá até as configurações do seu repositório e em seguida na aba de páginas.
+![image](https://user-images.githubusercontent.com/97710656/207861599-1053c769-0e1a-4ca6-ae41-965a3971cbb4.png)
+
+Na parte de Branch, selecione onde o seu widget está.
+![image](https://user-images.githubusercontent.com/97710656/207861879-e5730139-b721-462c-8fdb-71965ce72721.png)
+
+Em seguida aperte em salvar.
+![image](https://user-images.githubusercontent.com/97710656/207861977-acf1120f-2fbe-4f77-b271-8f929889dc0a.png)
+
+### Passo 4
+
+Vamos utilizar o nosso widget!
+
+Agora você tem acesso ao seus arquivos como em um site. Para conseguir a URL, siga o modelo abaixo.
+
+`usuário.github.io/nome-do-seu-repositório/nome-do-arquivo.html`
+
+**Exemplo**
+
+`akz3ira.github.io/notion-widgets/greatings-hour-dark.html`
+
+E está pronto para ser adicionado em seu notion!
+
+---
+
+Gostaria de sugerir algum Widget novo, encontrou algum BUG ou tem alguma sugestão de alteração? Entre em contato comigo.
+
+<div> 
+  <a href="https://instagram.com/af_designer1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:afdesigner1@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/afdesigner1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.behance.net/antoniofernand66" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/AFDesigner1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+ 
+</div>
